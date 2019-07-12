@@ -1,0 +1,2 @@
+# Typed.js
+Smart Backspacing
